@@ -1,6 +1,6 @@
 # bmi_app
 
-A new Flutter project.
+•	Created a BMI App that calculates BMI depending on weight and height and gives you bits of advice depending on your BMI Category
 
 ## Getting Started
 
